@@ -1,3 +1,9 @@
+![1](https://github.com/user-attachments/assets/0c37cc63-7a7b-4737-a081-ea23c034222f)
+![2](https://github.com/user-attachments/assets/74189d2d-afa3-47af-b53f-cb480275b5a7)
+![3](https://github.com/user-attachments/assets/23d408b5-a96f-44bb-ac07-1a2d1d122a5d)
+![4](https://github.com/user-attachments/assets/a10f0319-c121-40c9-8336-9dfb6f670df0)
+
+
 # Personal Portfolio Website
 
 This repository contains the source code for a personal portfolio website designed using HTML and CSS. The website showcases the skills, projects, and personal information of Zunaisha Noor, with the roll number Biet-f21-049.
